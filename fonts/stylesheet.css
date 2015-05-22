@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'thirsty_softblack';
+    src: url('thirstysoftblack-webfont.eot');
+    src: url('thirstysoftblack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('thirstysoftblack-webfont.woff') format('woff'),
+         url('thirstysoftblack-webfont.ttf') format('truetype'),
+         url('thirstysoftblack-webfont.svg#thirsty_softblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

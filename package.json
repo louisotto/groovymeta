@@ -1,0 +1,10 @@
+{
+  "name": "Groovy-Meta",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-uglify": "^0.8.1"
+  }
+}
